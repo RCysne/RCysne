@@ -3,7 +3,7 @@ I'm Ronaldo Cysne. 👋
 
 - 💻 I’m currently studying Full Stack at RocketSeat, and working as frontend developer as a freelancer
 - 📖 I’m currently learning Typescript, NodeJs, SQL and React Native.
--->
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
