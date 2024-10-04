@@ -5,7 +5,8 @@ I'm Ronaldo Cysne. 👋
 - 📖 I’m currently learning Typescript, NodeJs, SQL and React Native.
 
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+
           
 <div style="display: inline_block"><br>
   <p>Knowledge</p>
@@ -19,7 +20,6 @@ I'm Ronaldo Cysne. 👋
 
 <hr>
 
-   <i class="devicon-nextjs-original-wordmark"></i>
 <div>
   <p>Learning</p>
   
